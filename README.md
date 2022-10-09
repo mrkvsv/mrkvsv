@@ -1,4 +1,5 @@
-Для удобства, ссылки ведут на Jupyter nbviewer. Исходные файлы содержаться в репозитории [Проекты Data Science](https://github.com/mrkvsv/Data_Science_projects)  
+Для удобства, ссылки ведут на Jupyter nbviewer.  
+Исходные файлы содержаться в репозитории [Проекты Data Science](https://github.com/mrkvsv/Data_Science_projects)  
 
 # Проекты Data Analyst
 
