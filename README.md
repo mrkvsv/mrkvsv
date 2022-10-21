@@ -1,6 +1,8 @@
 Для удобства, ссылки ведут на Jupyter nbviewer.  
 Исходные файлы содержаться в репозитории [Проекты Data Science](https://github.com/mrkvsv/Data_Science_projects)  
 
+[Сертификаты](https://github.com/mrkvsv/Certificates)
+
 # Проекты Data Analyst
 
 | **Название** | **Описание** | **Инструменты** |  **Ключевые слова**  |
