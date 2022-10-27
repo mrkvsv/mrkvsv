@@ -1,7 +1,15 @@
 Для удобства, ссылки ведут на Jupyter nbviewer.  
-Исходные файлы содержаться в репозитории [Проекты Data Science](https://github.com/mrkvsv/Data_Science_projects)  
+Исходные файлы содержаться в репозиториях:
+1. [Проекты Data Science](https://github.com/mrkvsv/Data_Science_projects)  
+2. [Kaggle and hackathons](https://github.com/mrkvsv/Kaggle-and-hackathons)  
 
 [Сертификаты](https://github.com/mrkvsv/Certificates)
+
+# Kaggle and hackathons
+
+| Name | Description | Tools |  Keywords  |
+| :------------------- | :---------------------- | :---------------------- | :------ |
+| [Predict Future Sales](https://nbviewer.org/github/mrkvsv/Kaggle-and-hackathons/blob/main/Predict%20Future%20Sales/Kagle_Sales.ipynb) | Predict total sales for every product and store in the next month | `pandas` `TensorFlow` `Keras`  `lightGBM` `LSTM` | Time Series, regression, EDA |
 
 # Проекты Data Analyst
 
