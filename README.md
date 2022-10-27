@@ -10,6 +10,7 @@
 | Name | Description | Tools |  Keywords  |
 | :------------------- | :---------------------- | :---------------------- | :------ |
 | [Predict Future Sales](https://nbviewer.org/github/mrkvsv/Kaggle-and-hackathons/blob/main/Predict%20Future%20Sales/Kagle_Sales.ipynb) | Predict total sales for every product and store in the next month | `pandas` `TensorFlow` `Keras`  `lightGBM` `LSTM` | Time Series, regression, EDA |
+| [Прогноз оттока клиентов](https://nbviewer.org/github/mrkvsv/Kaggle-and-hackathons/blob/main/provider/user_churn.ipynb) | Необходимо спрогнозировать - уйдет клиент или нет из телекоммуникационной компании. | `Pipeline ` `CatBoost ` `LightGBM`  | classification, gradient boosting, EDA |
 
 # Проекты Data Analyst
 
