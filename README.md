@@ -3,6 +3,8 @@
 1. [Проекты Data Science](https://github.com/mrkvsv/Data_Science_projects)  
 2. [Kaggle and hackathons](https://github.com/mrkvsv/Kaggle-and-hackathons)  
 
+Projects in English - [Data Science Projects](https://github.com/mrkvsv/Data_Science_project_eng) and [Kaggle](https://github.com/mrkvsv/Kaggle-and-hackathons)
+
 [Сертификаты](https://github.com/mrkvsv/Certificates)
 
 # Kaggle and hackathons
