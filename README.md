@@ -13,6 +13,7 @@ Projects in English - [Data Science Projects](https://github.com/mrkvsv/Data_Sci
 | :------------------- | :---------------------- | :---------------------- | :------ |
 | [Predict Future Sales](https://nbviewer.org/github/mrkvsv/Kaggle-and-hackathons/blob/main/Predict%20Future%20Sales/Kagle_Sales.ipynb) | Predict total sales for every product and store in the next month | `pandas` `TensorFlow` `Keras`  `lightGBM` `LSTM` | Time Series, regression, EDA |
 | [Прогноз оттока клиентов](https://nbviewer.org/github/mrkvsv/Kaggle-and-hackathons/blob/main/provider/user_churn.ipynb) | Необходимо спрогнозировать - уйдет клиент или нет из телекоммуникационной компании. | `Pipeline ` `CatBoost ` `LightGBM`  | classification, gradient boosting, EDA |
+| [Классификация агрокультур](https://github.com/mrkvsv/Kaggle-and-hackathons/tree/main/agricultural%20crops) |  Классификация агрокультур на основе изменения показателя вегетационных индексов во временной последовательности. | `Pipeline ` `VotingClassifier` `LightGBM` `StackingClassifier`  | classification, EDA |
 
 # Проекты Data Analyst
 
